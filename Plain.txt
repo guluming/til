@@ -8,3 +8,11 @@
    - 리포(repo)
      ㄴ로컬repo & 원격repo
    - 클론(clone)
+
+3. 2주차 주요 개념 키워드 적어보기
+   - 협업하기 위한 단계
+   - 이슈(issue)
+   - 브랜치(branch)
+   - 머지(merge)
+   - 머지 컨플릭트(merge conflict)
+   - '원격 repo'의 origin
