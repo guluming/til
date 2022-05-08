@@ -5,6 +5,6 @@
 2. 1주차 주요 개념 키워드 적어보기
    - 버전관리
    - 커밋(commit)
-   - 레포(repo)
+   - 리포(repo)
      ㄴ로컬repo & 원격repo
    - 클론(clone)
